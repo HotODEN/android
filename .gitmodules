@@ -1,0 +1,3 @@
+[submodule "Assets/protocol"]
+	path = Assets/protocol
+	url = git@github.com:HotODEN/protocol.git
